@@ -24,5 +24,4 @@ create these files
 6. run "pip install -r requireemnts.txt"
 7. run "uvicorn main:app --reload"
 ____
-2026-05-25
-
+2026-05-27
